@@ -1,0 +1,418 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="81e5648b-ade3-4237-a333-f7c8d15a242b" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="Apple Picker Prototype" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Script/AppleTree.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Basket.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/ApplePicker.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Script/Apple.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/Script/Apple.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/ApplePicker.cs" />
+        <option value="$PROJECT_DIR$/Assets/Script/Basket.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="284" />
+    <option name="y" value="95" />
+    <option name="width" value="1026" />
+    <option name="height" value="546" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype (1 project)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assembly-CSharp" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Assets" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Script" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype" type="483dac07:UnityExplorerNode$Root" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="" type="ad4990d8:FileSystemViewPaneBase$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Apple Picker Prototype" type="483dac07:UnityExplorerNode$Root" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+              <item name="" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="Scratches">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/unity/Test" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.build" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="81e5648b-ade3-4237-a333-f7c8d15a242b" name="Default" comment="" />
+      <created>1532335264717</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1532335264717</updated>
+      <workItem from="1532335277306" duration="552000" />
+      <workItem from="1532335871044" duration="1027000" />
+      <workItem from="1532336981952" duration="1925000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3504000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" weight="0.32980332" />
+      <window_info active="true" anchor="bottom" id="Event Log" order="7" side_tool="true" visible="true" weight="0.32733223" />
+      <window_info anchor="bottom" id="Unit Tests" order="7" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49918166" visible="true" weight="0.18835099" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="8" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" sideWeight="0.5008183" side_tool="true" weight="0.18532526" />
+      <window_info id="Favorites" order="2" sideWeight="0.5008183" side_tool="true" weight="0.18532526" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection Results" order="8" weight="0.3289689" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Basket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1532336681967" expanded="true" signature="6:133" ph="..." />
+            <marker date="1532336681967" expanded="true" signature="171:855" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="271:313" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="367:641" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="682:853" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="764:796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Apple.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532335927703" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532335927703" expanded="true" signature="115:446" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="203:210" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="265:444" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="305:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ApplePicker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <marker date="1532334165570" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532334165570" expanded="true" signature="121:1041" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="340:645" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="420:642" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="700:707" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="739:1039" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="858:881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/AppleTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532322049612" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532322049612" expanded="true" signature="119:985" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="364:444" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="463:578" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="633:888" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="777:812" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="848:884" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="910:983" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="959:980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Basket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="15" selection-start-line="32" selection-start-column="15" selection-end-line="32" selection-end-column="15" />
+          <folding>
+            <marker date="1532336681967" expanded="true" signature="6:133" ph="..." />
+            <marker date="1532336681967" expanded="true" signature="171:855" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="271:313" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="367:641" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="682:853" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="764:796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Apple.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="45" selection-start-line="15" selection-start-column="45" selection-end-line="15" selection-end-column="45" />
+          <folding>
+            <marker date="1532335927703" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532335927703" expanded="true" signature="115:446" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="203:210" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="265:444" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="305:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ApplePicker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="35" selection-start-line="6" selection-start-column="35" selection-end-line="6" selection-end-column="35" />
+          <folding>
+            <marker date="1532334165570" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532334165570" expanded="true" signature="121:1041" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="340:645" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="420:642" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="700:707" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="739:1039" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="858:881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/AppleTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1532322049612" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532322049612" expanded="true" signature="119:985" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="364:444" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="463:578" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="633:888" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="777:812" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="848:884" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="910:983" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="959:980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/AppleTree.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-45">
+          <folding>
+            <marker date="1532322049612" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532322049612" expanded="true" signature="119:985" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="364:444" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="463:578" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="633:888" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="777:812" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="848:884" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="910:983" ph="{...}" />
+            <marker date="1532322049612" expanded="true" signature="959:980" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/ApplePicker.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding>
+            <marker date="1532334165570" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532334165570" expanded="true" signature="121:1041" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="340:645" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="420:642" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="700:707" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="739:1039" ph="{...}" />
+            <marker date="1532334165570" expanded="true" signature="858:881" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Apple.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1532335927703" expanded="false" signature="6:78" ph="..." />
+            <marker date="1532335927703" expanded="true" signature="115:446" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="203:210" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="265:444" ph="{...}" />
+            <marker date="1532335927703" expanded="true" signature="305:441" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Script/Basket.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1532336681967" expanded="true" signature="6:133" ph="..." />
+            <marker date="1532336681967" expanded="true" signature="171:855" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="271:313" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="367:641" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="682:853" ph="{...}" />
+            <marker date="1532336681967" expanded="true" signature="764:796" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
